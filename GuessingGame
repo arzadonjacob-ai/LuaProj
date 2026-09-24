@@ -1,3 +1,9 @@
+--[[
+Jacob Arzadon
+09/23/2026
+Guessing Game
+]]
+
 math.randomseed(os.time())
 won = false
 answer = "yes"
